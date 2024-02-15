@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # Input host IPv4 to scan if specified ports are open or closed
+# By koriol on Wednesday February 14, 2024
 
 import socket
 from termcolor import colored
